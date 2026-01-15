@@ -1,6 +1,5 @@
 # A5 Dashboard Presentation
 
-### SAY THIS:
 > My dashboard is the **Map-Driven Offset Explorer** for analyzing global climate data.
 >
 > **Target Users:** Environmental analysts and climate researchers who need to explore relationships between emissions, temperature changes, forest carbon, and climate disasters across countries and regions.
@@ -15,7 +14,7 @@
 ---
 
 ## LIVE DEMO
-**[Switch to browser: https://wwwlab.cs.univie.ac.at/~alrubayem88/VIS25W/A5/]**
+**[https://wwwlab.cs.univie.ac.at/~alrubayem88/VIS25W/A5/]**
 
 ---
 
