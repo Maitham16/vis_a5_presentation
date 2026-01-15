@@ -18,7 +18,7 @@
 
 ---
 
-### PART A: Overview
+### Overview
 > "The dashboard has four coordinated views:
 > - **A1:** World map showing emissions by color intensity, disaster-prone countries with thicker outlines
 > - **A2:** Time series with emissions and temperature anomaly trends
@@ -27,11 +27,11 @@
 
 ---
 
-### PART B: Region Filtering
+### Region Filtering
 > "I'll demonstrate regional analysis. Let me filter by **Asia**."
 ---
 
-### PART C: Time Window Brushing 
+### Time Window Brushing 
 > "The time series allows temporal analysis."
 
 > "When I brush here, all views recalculate for that period. This reveals how patterns evolved over time. For example, emissions have increased significantly since 2000."
@@ -54,8 +54,8 @@
 
 ---
 
-### Key Insight
-> "An interesting finding: Countries with highest disaster counts often have moderate emissions. Climate impact does not always correlate directly with emission levels - smaller nations face disproportionate disaster burdens."
+### Insights
+> "The dashboard leads to an interesting finding: Countries with highest disaster counts often have moderate emissions. Climate impact does not always correlate directly with emission levels - smaller nations face disproportionate disaster burdens."
 
 ---
 
