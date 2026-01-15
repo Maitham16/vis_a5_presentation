@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A5 Presentation - Map-Driven Offset Explorer</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%);
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 40px;
+    }
+
+    .slide {
+      max-width: 1000px;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: #fff;
+    }
+
+    .subtitle {
+      font-size: 1.4rem;
+      color: #8ecae6;
+      margin-bottom: 50px;
+      font-weight: 400;
+    }
+
+    .section {
+      margin-bottom: 40px;
+    }
+
+    .section-title {
+      font-size: 1.3rem;
+      color: #ffd166;
+      margin-bottom: 16px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .section-title::before {
+      content: '';
+      width: 4px;
+      height: 24px;
+      background: #ffd166;
+      border-radius: 2px;
+    }
+
+    .content {
+      font-size: 1.3rem;
+      line-height: 1.8;
+      color: #e8e8e8;
+      padding-left: 14px;
+    }
+
+    .tasks {
+      list-style: none;
+      padding-left: 14px;
+    }
+
+    .tasks li {
+      font-size: 1.25rem;
+      line-height: 1.8;
+      color: #e8e8e8;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .task-num {
+      background: #3b82f6;
+      color: #fff;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    .highlight {
+      color: #8ecae6;
+      font-weight: 600;
+    }
+
+    .footer {
+      margin-top: 50px;
+      font-size: 1rem;
+      color: #8ecae6;
+      opacity: 0.8;
+    }
+
+    .data-sources {
+      font-size: 0.95rem;
+      color: #94a3b8;
+      margin-top: 30px;
+      padding-left: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="slide">
+    <h1>Map-Driven Offset Explorer</h1>
+    <p class="subtitle">Climate Data Visual Analysis Dashboard</p>
+
+    <div class="section">
+      <div class="section-title">Target Users</div>
+      <p class="content">
+        <span class="highlight">Environmental analysts</span> and <span class="highlight">climate researchers</span> 
+        exploring relationships between emissions, temperature, forest carbon, and climate disasters.
+      </p>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Analysis Tasks</div>
+      <ul class="tasks">
+        <li>
+          <span class="task-num">1</span>
+          <span><span class="highlight">Compare emissions and temperature trends</span> over time across regions</span>
+        </li>
+        <li>
+          <span class="task-num">2</span>
+          <span><span class="highlight">Identify countries</span> with high emissions but low forest carbon offset</span>
+        </li>
+        <li>
+          <span class="task-num">3</span>
+          <span><span class="highlight">Explore disaster patterns</span> in relation to emissions levels</span>
+        </li>
+      </ul>
+    </div>
+
+    <p class="data-sources">
+      Data: UN Climate Datasets — Emissions, Forest Carbon, Disasters, Temperature Anomaly
+    </p>
+
+    <p class="footer">Visualization (VIS25W) — Assignment 5</p>
+  </div>
+</body>
+</html>
