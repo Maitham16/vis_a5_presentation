@@ -35,38 +35,28 @@
 ### PART C: Time Window Brushing 
 > "The time series allows temporal analysis."
 
-**DO:** In A2, drag to brush a different time window (e.g., 2000-2010).
-
 > "When I brush here, all views recalculate for that period. This reveals how patterns evolved over time. For example, emissions have increased significantly since 2000."
 
 ---
 
-### PART D: Country Selection & Linking 
+### Country Selection & Linking 
 > "Views are fully linked. I'll select a country."
 
-**DO:** Click on China in the map (or any visible high-emission country).
-
 > "China is now highlighted across all views. I can see its emissions trend, its position comparing emissions to forest carbon, and its disaster ranking."
-
-**DO:** Shift+Click on India to multi-select.
 
 > "Shift-click enables multi-selection for comparison."
 
 ---
 
-### PART E: Scatter Plot Insight
+### Scatter Plot Insight
 > "The scatter plot reveals an important insight."
-
-**DO:** Point to the scatter plot (A3).
 
 > "Countries in the **upper-left** have high forest carbon but low emissions - good carbon offset. Countries in **lower-right** have high emissions but low forest carbon - concerning. Bubble size shows disaster frequency."
 
 ---
 
-### PART F: Key Insight
+### Key Insight
 > "An interesting finding: Countries with highest disaster counts often have moderate emissions. Climate impact does not always correlate directly with emission levels - smaller nations face disproportionate disaster burdens."
-
-**DO:** Point to bar chart showing this.
 
 ---
 
